@@ -1,0 +1,24 @@
+
+
+.wrap{ width: 20%; margin: 10% auto 0; min-width: 180px;}
+input, b {font-size: 35px;text-shadow: 1px 1px 1px rgb(100,100,100); width: auto;}
+input {width: 40px; padding-left: 4px;}
+.yellow { color: yellow; }
+#sum input {display: none;}
+
+.img {width: 900px; margin: 150px auto 0; position: relative; overflow: hidden; padding-top: 50px;}
+.img_sum {
+	position: absolute; 
+	height: 70px; 
+	width: 0; 
+	top: 0; 
+	left: 36px; 
+	transition: all 1s; 
+	border: 1px solid orange;
+	border-bottom: none;
+}
+.img img {width: 100%;}
+
+/*40px*/
+
+
